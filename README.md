@@ -1,6 +1,6 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-22 08:50_
+_Last updated 2026-11-22 08:52_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
@@ -111,13 +111,14 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 
 ```
 2024
-├─ 2024–2025  First Golem run: GS-24-01 to GS-24-25; Augur? GX?
+├─            First Spindle run: GS-24-01 to GS-24-25
 ├─ Apr        Brand launch
 ├─ Dec 16     Spindle OG design
 └─ Dec 29     Augur OG design
 2025
 ├─ Aug        Augur clip design
 ├─ Oct        Spindle Pocket design
+├─ Oct        Final OG run
 └─ Nov        South Bend Workshop 9 lathe arrives
 2026
 ├─ Apr        New Lathe headstock replacement
