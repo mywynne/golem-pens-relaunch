@@ -1,10 +1,10 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-21 20:50_
+_Last updated 2026-11-21 20:53_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
-| Lane | Tasks | Done | In progress | Progress |
+|  | Tasks | Done | In progress | Progress |
 | ---- | ----: | ---: | ----------: | -------- |
 | ✒️ **Pen production** | 5 | 0 | 0 | ░░░░░░░░░░   0% |
 | 🛠️ **Lathe configuration** | 4 | 1 | 1 | ▓▓▓░░░░░░░  25% |
