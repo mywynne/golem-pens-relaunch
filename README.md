@@ -1,6 +1,6 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-21 20:46_
+_Last updated 2026-11-21 20:47_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
@@ -112,6 +112,3 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | U2 | Tailstock travel | ⬜ | — |
 | U3 | DRO | ⬜ | — |
 | U4 | New cabinet | ⬜ | — |
-
----
-_Built automatically from the status file — edit that file, not this one._
