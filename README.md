@@ -1,6 +1,6 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-22 08:49_
+_Last updated 2026-11-22 08:50_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
@@ -111,7 +111,7 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 
 ```
 2024
-├─ 2024–2025  First Golem run: GS-24-01 to GS-24-25; Augusr? GX?
+├─ 2024–2025  First Golem run: GS-24-01 to GS-24-25; Augur? GX?
 ├─ Apr        Brand launch
 ├─ Dec 16     Spindle OG design
 └─ Dec 29     Augur OG design
