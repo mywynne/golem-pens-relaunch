@@ -1,6 +1,6 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-22 08:43_
+_Last updated 2026-11-22 08:44_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
@@ -111,17 +111,17 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 
 ```
 2024
-├─         First Spindle run: GS-24-01 to GS-24-25
-├─ Apr     Brand launch
-├─ Dec 16  Spindle OG design
-└─ Dec 29  Augur OG design
+├─          First Spindle run: GS-24-01 to GS-24-25
+├─ Apr      Brand launch
+├─ Dec 16   Spindle OG design
+└─ Dec 29   Augur OG design
 2025
-├─ Aug     Augur clip design
-├─ Oct     Spindle Pocket design
-└─ Nov     South Bend Workshop 9 lathe arrives
+├─ Aug      Augur clip design
+├─ Oct      Spindle Pocket design
+└─ Nov      South Bend Workshop 9 lathe arrives
 2026
-├─ Aug     2026-10 Spindle IMP design begins
-├─ Oct     Spindle IMP CAD, mandrels, nib and feed models
-├─ Oct 19  Spindle IMP schematics
-└─ Nov 21  Relaunch tracking starts
+├─ Aug–Oct  Spindle IMP design begins
+├─ Oct      Spindle IMP CAD, mandrels, nib and feed models
+├─ Oct 19   Spindle IMP schematics
+└─ Nov 21   Relaunch tracking starts
 ```
