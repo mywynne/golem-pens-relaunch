@@ -1,30 +1,18 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-21 20:49_
+_Last updated 2026-11-21 20:50_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
 | Lane | Tasks | Done | In progress | Progress |
 | ---- | ----: | ---: | ----------: | -------- |
+| 📌 **Pen production** | 5 | 0 | 0 | ░░░░░░░░░░   0% |
 | 🛠️ **Lathe configuration** | 4 | 1 | 1 | ▓▓▓░░░░░░░  25% |
 | ✏️ **Pen designs** | 6 | 1 | 2 | ▓▓░░░░░░░░  17% |
 | 🔩 **Pen tooling** | 7 | 0 | 0 | ░░░░░░░░░░   0% |
-| 📌 **Pen production** | 5 | 0 | 0 | ░░░░░░░░░░   0% |
 | 🧰 **Lathe tools** | 8 | 5 | 1 | ▓▓▓▓▓▓░░░░  63% |
 | ⬆️ **Upgrades** | 4 | 0 | 0 | ░░░░░░░░░░   0% |
 | **TOTAL** | **34** | **7** | **4** | **▓▓░░░░░░░░  21%** |
-
-## Lathe configuration
-
-```
-○─ 🔄 Bed twist
-│
-○─ 🚫 Headstock alignment
-│
-○─ 🚫 Tailstock alignment
-│
-●─ ✅ Gearing configuration
-```
 
 ## Pen production
 
@@ -40,7 +28,29 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 ○─ 🎯 Production
 ```
 
+## Lathe configuration
+
+```
+○─ 🔄 Bed twist
+│
+○─ 🚫 Headstock alignment
+│
+○─ 🚫 Tailstock alignment
+│
+●─ ✅ Gearing configuration
+```
+
 ## Backlog
+
+#### 📌 Pen production (0/5)
+
+| ID | Task | Status | Blocks |
+|----|------|--------|--------|
+| P1 | Lathe configuration | ⬜ | P2 |
+| P2 | Pen designs | ⬜ | P3 |
+| P3 | Pen tooling | ⬜ | P4 |
+| P4 | Prototypes | ⬜ | P5 |
+| P5 | Production | ⬜ | — |
 
 #### 🛠️ Lathe configuration (1/4)
 
@@ -73,16 +83,6 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | P5 | Section mandrels — Jowo #6 | 🚫 | — |
 | P6 | Section mandrels — Bock 250 | 🚫 | — |
 | P7 | Section mandrels — Bock 380 | 🚫 | — |
-
-#### 📌 Pen production (0/5)
-
-| ID | Task | Status | Blocks |
-|----|------|--------|--------|
-| P1 | Lathe configuration | ⬜ | P2 |
-| P2 | Pen designs | ⬜ | P3 |
-| P3 | Pen tooling | ⬜ | P4 |
-| P4 | Prototypes | ⬜ | P5 |
-| P5 | Production | ⬜ | — |
 
 #### 🧰 Lathe tools (5/8)
 
