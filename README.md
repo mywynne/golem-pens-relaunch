@@ -6,24 +6,24 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 
 |  | Tasks | Done | In progress | Progress |
 | ---- | ----: | ---: | ----------: | -------- |
-| ✒️ **Pen production** | 5 | 0 | 0 | ░░░░░░░░░░   0% |
+| ✒️ **Pen production** | 5 | 0 | 2 | ░░░░░░░░░░   0% |
 | 🛠️ **Lathe configuration** | 4 | 1 | 1 | ▓▓▓░░░░░░░  25% |
 | ✏️ **Pen designs** | 6 | 1 | 2 | ▓▓░░░░░░░░  17% |
 | 🔩 **Pen tooling** | 7 | 0 | 0 | ░░░░░░░░░░   0% |
 | 🧰 **Lathe tools** | 8 | 5 | 1 | ▓▓▓▓▓▓░░░░  63% |
 | ⬆️ **Upgrades** | 4 | 0 | 0 | ░░░░░░░░░░   0% |
-| **TOTAL** | **34** | **7** | **4** | **▓▓░░░░░░░░  21%** |
+| **TOTAL** | **34** | **7** | **6** | **▓▓░░░░░░░░  21%** |
 
 ## Pen production
 
 ```
-○─ ⬜ Lathe configuration
+○─ 🔄 Lathe configuration
 │
-○─ ⬜ Pen designs
+○─ 🔄 Pen designs
 │
-○─ ⬜ Pen tooling
+○─ 🚫 Pen tooling
 │
-○─ ⬜ Prototypes
+○─ 🚫 Prototypes
 │
 ○─ 🎯 Production
 ```
@@ -46,11 +46,11 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 
 | ID | Task | Status | Blocks |
 |----|------|--------|--------|
-| PR1 | Lathe configuration | ⬜ | PR2 |
-| PR2 | Pen designs | ⬜ | PR3 |
-| PR3 | Pen tooling | ⬜ | PR4 |
-| PR4 | Prototypes | ⬜ | PR5 |
-| PR5 | Production | ⬜ | — |
+| PR1 | Lathe configuration | 🔄 | PR2 |
+| PR2 | Pen designs | 🔄 | PR3 |
+| PR3 | Pen tooling | 🚫 | PR4 |
+| PR4 | Prototypes | 🚫 | PR5 |
+| PR5 | Production | 🚫 | — |
 
 #### 🛠️ Lathe configuration (1/4)
 
