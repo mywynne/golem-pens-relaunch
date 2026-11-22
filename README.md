@@ -1,6 +1,6 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-22 08:47_
+_Last updated 2026-11-22 08:48_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
@@ -121,9 +121,8 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 └─ Nov        South Bend Workshop 9 lathe arrives
 2026
 ├─ Apr        New Lathe headstock replacement
-├─ Aug–Oct    Spindle IMP design phase
-│  ├─ Aug     Spindle IMP design begins
-│  ├─ Oct     Spindle IMP, nib, and feed CAD models
-│  └─ Oct 19  Spindle IMP schematics
-└─ Nov 21     Relaunch tracking starts
+└─ Aug–Oct    Spindle IMP design phase
+   ├─ Aug     Spindle IMP design begins
+   ├─ Oct     Spindle IMP, nib, and feed CAD models
+   └─ Oct 19  Spindle IMP schematics
 ```
