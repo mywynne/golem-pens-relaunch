@@ -1,6 +1,6 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-22 09:06_
+_Last updated 2026-11-25 10:44_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
@@ -10,9 +10,9 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | 🛠️ **Lathe configuration** | 4 | 1 | 1 | ▓▓▓░░░░░░░  25% |
 | ✏️ **Pen designs** | 6 | 1 | 2 | ▓▓░░░░░░░░  17% |
 | 🔩 **Pen tooling** | 7 | 0 | 0 | ░░░░░░░░░░   0% |
-| 🧰 **Lathe tools** | 8 | 5 | 1 | ▓▓▓▓▓▓░░░░  63% |
+| 🧰 **Lathe tools** | 8 | 6 | 0 | ▓▓▓▓▓▓▓▓░░  75% |
 | ⬆️ **Upgrades** | 4 | 0 | 0 | ░░░░░░░░░░   0% |
-| **TOTAL** | **34** | **7** | **6** | **▓▓░░░░░░░░  21%** |
+| **TOTAL** | **34** | **8** | **5** | **▓▓░░░░░░░░  24%** |
 
 ## Pen production
 
@@ -56,7 +56,7 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 
 | ID | Task | Needs | Status | Blocks |
 |----|------|-------|--------|--------|
-| S1 | Bed twist | Shims ✓, V-blocks (on order), Precision level (need to borrow), Measurement test | 🔄 | S2 |
+| S1 | Bed twist | Shims ✓, V-blocks ✓, Precision level ✓, Measurement and correction | 🔄 | S2 |
 | S2 | Headstock alignment | Dial indicator ✓, Cut test | 🚫 | S3 |
 | S3 | Tailstock alignment | Tailstock alignment bar ✓, Cut test | 🚫 | S4, P1, P2, P3, P4, P5, P6, P7 |
 | S4 | Gearing configuration | — | ✅ | — |
@@ -84,18 +84,18 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | P6 | Section mandrels — Bock 250 | 🚫 | — |
 | P7 | Section mandrels — Bock 380 | 🚫 | — |
 
-#### 🧰 Lathe tools (5/8)
+#### 🧰 Lathe tools (6/8)
 
 | ID | Task | Status | Blocks |
 |----|------|--------|--------|
-| T1 | QCTP | ✅ | — |
-| T2 | Collet chuck | ✅ | — |
-| T3 | 3 jaw chuck | ⬜ | — |
-| T4 | 4 jaw independent chuck | ⬜ | — |
-| T5 | 1-2-3 blocks | ✅ | — |
-| T6 | V-blocks | 🔄 | — |
-| T7 | Dial indicator | ✅ | — |
-| T8 | Dial test indicator | ✅ | — |
+| T1 | 3 jaw chuck | ⬜ | — |
+| T2 | 4 jaw independent chuck | ⬜ | — |
+| T3 | 1-2-3 blocks | ✅ | — |
+| T4 | V-blocks | ✅ | — |
+| T5 | Dial indicator x 2 | ✅ | — |
+| T6 | Dial test indicator | ✅ | — |
+| T7 | QCTP | ✅ | — |
+| T8 | Collet chuck | ✅ | — |
 
 #### ⬆️ Upgrades (0/4)
 
@@ -112,23 +112,25 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 ```
 ━━ 2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ┃
-●  Apr        Brand launch
-●  Apr–Dec    Spindle OG run: GS-24-01 to GS-24-25
-●  Dec 16     Spindle OG design
-●  Dec 29     Augur OG design
+●  Apr            Brand launch
+●  Apr–Dec        Spindle OG run: GS-24-01 to GS-24-25
+●  Dec 16         Spindle OG design
+●  Dec 29         Augur OG design
 ┃
 ━━ 2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ┃
-●  Aug        Augur clip design
-●  Oct        Spindle Pocket design
-●  Oct        Final OG run
-●  Nov        South Bend Workshop 9 lathe arrives
+●  Aug            Augur clip design
+●  Oct            Spindle Pocket design
+●  Oct            Final OG run
+●  Nov            South Bend Workshop 9 lathe arrives
+●  Dec–Mar 2026   A lot of tests, with the end result being that the original headstock and 1-1/8" spindle are too worn, and are not reasonable replaceable.
 ┃
 ━━ 2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ┃
-●  Apr        New Lathe headstock replacement
-┏━ Aug–Oct    Spindle IMP design phase
-┃  ○ Aug      Spindle IMP design begins
-┃  ○ Oct      Spindle IMP, nib, and feed CAD models
-┗━ ○ Oct 19   Spindle IMP schematics
+●  Apr            New lathe headstock replacement with a more "modern" 1-1/2" spindle.
+┏━ Aug–Oct        Spindle IMP design phase
+┃  ○ Aug          Spindle IMP design begins
+┃  ○ Oct          Spindle IMP, nib, and feed CAD models
+┗━ ○ Oct 19       Spindle IMP schematics
+●  Nov 25         Inspecting and assessing bed twist
 ```
