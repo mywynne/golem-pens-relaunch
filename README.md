@@ -1,6 +1,6 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-26 10:50_
+_Last updated 2026-11-26 10:51_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
@@ -10,9 +10,9 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | 🛠️ **Lathe configuration** | 4 | 2 | 0 | ▓▓▓▓▓░░░░░  50% |
 | ✏️ **Pen designs** | 6 | 1 | 2 | ▓▓░░░░░░░░  17% |
 | 🔩 **Pen tooling** | 7 | 0 | 0 | ░░░░░░░░░░   0% |
-| 🧰 **Lathe tools** | 8 | 6 | 0 | ▓▓▓▓▓▓▓▓░░  75% |
+| 🧰 **Lathe tools** | 9 | 7 | 0 | ▓▓▓▓▓▓▓▓░░  78% |
 | ⬆️ **Upgrades** | 4 | 0 | 0 | ░░░░░░░░░░   0% |
-| **TOTAL** | **34** | **9** | **4** | **▓▓▓░░░░░░░  26%** |
+| **TOTAL** | **35** | **10** | **4** | **▓▓▓░░░░░░░  29%** |
 
 ## Pen production
 
@@ -57,7 +57,7 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | ID | Task | Needs | Status | Blocks |
 |----|------|-------|--------|--------|
 | S1 | Bed twist | Shims ✓, V-blocks ✓, Precision level ✓, Measurement and correction ✓ | ✅ | S2 |
-| S2 | Headstock alignment | Dial indicator ✓, Cut test | 🚫 | S3 |
+| S2 | Headstock alignment | Dial indicator ✓, Bar test, Cut test | 🚫 | S3 |
 | S3 | Tailstock alignment | Tailstock alignment bar ✓, Cut test | 🚫 | S4, P1, P2, P3, P4, P5, P6, P7 |
 | S4 | Gearing configuration | — | ✅ | — |
 
@@ -84,7 +84,7 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | P6 | Section mandrels — Bock 250 | 🚫 | — |
 | P7 | Section mandrels — Bock 380 | 🚫 | — |
 
-#### 🧰 Lathe tools (6/8)
+#### 🧰 Lathe tools (7/9)
 
 | ID | Task | Status | Blocks |
 |----|------|--------|--------|
@@ -96,6 +96,7 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | T6 | Dial test indicator | ✅ | — |
 | T7 | QCTP | ✅ | — |
 | T8 | Collet chuck | ✅ | — |
+| T9 | Alignment test bar | ✅ | — |
 
 #### ⬆️ Upgrades (0/4)
 
