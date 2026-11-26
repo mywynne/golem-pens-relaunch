@@ -1,18 +1,18 @@
 # Golem Pens Relaunch Dashboard
 
-_Last updated 2026-11-25 10:44_
+_Last updated 2026-11-26 10:50_
 
 Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked · ⏸️ paused
 
 |  | Tasks | Done | In progress | Progress |
 | ---- | ----: | ---: | ----------: | -------- |
 | ✒️ **Pen production** | 5 | 0 | 2 | ░░░░░░░░░░   0% |
-| 🛠️ **Lathe configuration** | 4 | 1 | 1 | ▓▓▓░░░░░░░  25% |
+| 🛠️ **Lathe configuration** | 4 | 2 | 0 | ▓▓▓▓▓░░░░░  50% |
 | ✏️ **Pen designs** | 6 | 1 | 2 | ▓▓░░░░░░░░  17% |
 | 🔩 **Pen tooling** | 7 | 0 | 0 | ░░░░░░░░░░   0% |
 | 🧰 **Lathe tools** | 8 | 6 | 0 | ▓▓▓▓▓▓▓▓░░  75% |
 | ⬆️ **Upgrades** | 4 | 0 | 0 | ░░░░░░░░░░   0% |
-| **TOTAL** | **34** | **8** | **5** | **▓▓░░░░░░░░  24%** |
+| **TOTAL** | **34** | **9** | **4** | **▓▓▓░░░░░░░  26%** |
 
 ## Pen production
 
@@ -31,7 +31,7 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 ## Lathe configuration
 
 ```
-○─ 🔄 Bed twist
+●─ ✅ Bed twist
 │
 ○─ 🚫 Headstock alignment
 │
@@ -52,11 +52,11 @@ Status key: ⬜ not started · 🔄 in progress · ✅ complete · 🚫 blocked 
 | PR4 | Prototypes | 🚫 | PR5 |
 | PR5 | Production | 🚫 | — |
 
-#### 🛠️ Lathe configuration (1/4)
+#### 🛠️ Lathe configuration (2/4)
 
 | ID | Task | Needs | Status | Blocks |
 |----|------|-------|--------|--------|
-| S1 | Bed twist | Shims ✓, V-blocks ✓, Precision level ✓, Measurement and correction | 🔄 | S2 |
+| S1 | Bed twist | Shims ✓, V-blocks ✓, Precision level ✓, Measurement and correction ✓ | ✅ | S2 |
 | S2 | Headstock alignment | Dial indicator ✓, Cut test | 🚫 | S3 |
 | S3 | Tailstock alignment | Tailstock alignment bar ✓, Cut test | 🚫 | S4, P1, P2, P3, P4, P5, P6, P7 |
 | S4 | Gearing configuration | — | ✅ | — |
